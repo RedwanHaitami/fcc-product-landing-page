@@ -9,7 +9,7 @@ Product landing page project of an illusionary tea brand created for freeCodeCam
 
 ## Live Demo 
 
-Check it out on [Github webpages]()<br>
+Check it out on [Github webpages](https://redwanhaitami.github.io/fcc-product-landing-page/)<br>
 <br>
 
 ## Objective 
