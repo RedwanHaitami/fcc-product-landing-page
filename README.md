@@ -9,7 +9,7 @@ Product landing page project of an illusionary tea brand created for freeCodeCam
 
 ## Live Demo 
 
-Check it out on [Github Webpages]()<br>
+Check it out on [Github webpages]()<br>
 <br>
 
 ## Objective 
@@ -49,7 +49,7 @@ Build a product landing page to market a product of your choice.
 - **User Story #15:** My product landing page should utilize CSS flexbox at least once.
 <br>
 
-### Attributions 
+
 
 
 
